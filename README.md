@@ -1,4 +1,4 @@
-# grpc-sniperv2.0 🚀
+# grpc-solana-sniperv2.0 🚀
 
 **All new tokens on Raydium & Pumpfun sniper bot**
 
