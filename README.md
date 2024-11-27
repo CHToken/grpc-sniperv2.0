@@ -4,6 +4,8 @@
 
 With this tool, you can snipe faster on the next block on new token detection. This tool uses WebSocket and gRPC. For optimal performance, we recommend using a staked RPC for faster transaction execution. You can get one from [this Discord server](https://discord.gg/dQ9nmAavkB).
 
+Download the latest released version to enjoy trading seamlessly 🔥
+
 For more information or support, feel free to contact us:
 
 - **Discord:** [https://discord.gg/Qm4UM7jR8B](https://discord.gg/Qm4UM7jR8B)
