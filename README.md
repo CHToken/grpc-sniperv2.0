@@ -1,8 +1,11 @@
-# grpc-sniperv2.0 🚀
+# grpc-solana-sniperv2.0 🚀
 
 **All new tokens on Raydium & Pumpfun sniper bot**
 
 With this tool, you can snipe faster on the next block on new token detection. This tool uses WebSocket and gRPC. For optimal performance, we recommend using a staked RPC for faster transaction execution. You can get one from [this Discord server](https://discord.gg/dQ9nmAavkB).
+
+Download the latest released version to enjoy trading seamlessly 🔥
+- **Download Here:** [https://github.com/CHToken/grpc-sniperv2.0/releases](https://github.com/CHToken/grpc-sniperv2.0/releases)
 
 For more information or support, feel free to contact us:
 
