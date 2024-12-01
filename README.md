@@ -14,11 +14,14 @@ For more information or support, feel free to contact us:
 ## **Features**
 
 - **Listen/Subscribe to New Tokens:** Stay updated with real-time token launches.
-- **Filters for Buy and Sell:** Customize rules to optimize your trades.
+- **Filters for Buy and Sell:** Customize rules to optimize your trades from rugs.
 - **Fast Transaction Execution:** Ensures your transactions are processed swiftly.
 - **Advanced Buy Logic:** Implements smart strategies for token acquisition.
 - **Advanced Sell Logic:** Automates token selling for maximum profitability.
 - **Snipes on Next Block:** Executes transactions at the earliest possible opportunity.
+- **Option to use Grpc or Websocket:** Choose between gRPC mode or WebSocket mode.
+- **Simple UI for PNL:** An easy way to view your PNL for each trad.
+- **Trailing Stop Loss:** An advanced method for maximizing your profit.
 
 ---
 
