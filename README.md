@@ -9,7 +9,7 @@ Download the latest released version to enjoy trading seamlessly 🔥
 
 For more information or support, feel free to contact us:
 
-- **Discord:** [https://discord.gg/Qm4UM7jR8B](https://discord.gg/Qm4UM7jR8B)
+- **Discord:** [https://discord.gg/UENnBewSkN](https://discord.gg/UENnBewSkN)
 - **Telegram:** [https://t.me/lordofdevs](https://t.me/lordofdevs)
 
 ---
