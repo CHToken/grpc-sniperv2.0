@@ -9,7 +9,7 @@ Download the latest released version to enjoy trading seamlessly 🔥
 
 For more information or support, feel free to contact us:
 
-- **Discord:** [https://discord.gg/UENnBewSkN](https://discord.gg/UENnBewSkN)
+- **Discord:** [https://discord.gg/UQTavkvj3G](https://discord.gg/UQTavkvj3G)
 - **Telegram:** [https://t.me/lordofdevs](https://t.me/lordofdevs)
 
 ---
@@ -17,8 +17,10 @@ For more information or support, feel free to contact us:
 ## **Features**
 
 - **Listen/Subscribe to New Tokens:** Stay updated with real-time token launches.
+- **Buy From SnipeList:** Buy only from your provided token list.
 - **Filters for Buy and Sell:** Customize rules to optimize your trades from rugs.
 - **Fast Transaction Execution:** Ensures your transactions are processed swiftly.
+- **Most Advanced RugCheck:** Stay secured with our advanced rugcheck.
 - **Advanced Buy Logic:** Implements smart strategies for token acquisition.
 - **Advanced Sell Logic:** Automates token selling for maximum profitability.
 - **Snipes on Next Block:** Executes transactions at the earliest possible opportunity.
