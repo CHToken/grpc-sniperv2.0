@@ -6,6 +6,8 @@ With this tool, you can snipe faster on the next block on new token detection. T
 
 Download the latest released version to enjoy trading seamlessly 🔥
 
+We have discontinued the release version because of file limnit, just download the bot file directly
+
 For more information or support, feel free to contact us:
 
 - **Discord:** [https://discord.gg/UQTavkvj3G](https://discord.gg/UQTavkvj3G)
